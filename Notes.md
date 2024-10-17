@@ -22,3 +22,29 @@ There are two noteworthy things here.
 
 1. In the function name we didn't capitalize Conan's name. That's because functions can't begin with uppercase letters.
 2. This function doesn't take any parameters. When a function doesn't take any parameters, we usually say it's a definition (or a name). Because we can't change what names (and functions) mean once we've defined them, conanO'Brien and the string "It's a-me, Conan O'Brien!" can be used interchangeably.
+
+## Lists
+
+Functions usable over lists:
+
+- ++
+- :
+- head
+- tail
+- last
+- init
+- duplicate
+- length
+- take
+- reverse
+- length
+- null
+- drop
+- minimum
+- maximum
+- sum
+- product
+- <item> `elem` <list>
+- Math comparison (Lexically based) > < ==
+
+## Ranges
